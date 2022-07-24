@@ -1,6 +1,6 @@
 # LinkedIn_Courses
 
-### Java Memory Management Course:
+### [Java Memory Management Course](https://www.linkedin.com/learning-login/share?account=94679938&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fjava-memory-management%3Ftrk%3Dshare_ent_url%26shareId%3DNTaXuWdSQimYFmUsjPTh5Q%253D%253D):
 
 **Learning objectives**
 - How memory works in Java
