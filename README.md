@@ -1,7 +1,8 @@
 # LinkedIn_Courses
 
 Java Memory Management Course:
-Learning objectives
+
+**Learning objectives**
 - How memory works in Java
 - Passing variables by value
 - How objects are passed
